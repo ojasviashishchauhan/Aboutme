@@ -78,7 +78,7 @@ window.addEventListener('scroll', () => {
 });
 
 // Typing animation for hero roles
-const roles = ['Senior Threat Detection Engineer', 'Cybersecurity Engineer', 'Data Science Expert', 'Security Analytics Specialist'];
+const roles = ['Senior Security Engineer', 'Cybersecurity Engineer', 'Data Science Expert', 'Security Analytics Specialist'];
 let currentRoleIndex = 0;
 
 function rotateRoles() {
