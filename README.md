@@ -224,7 +224,6 @@ The website is fully responsive and optimized for:
 ## 📧 Contact
 
 - **Email**: ojaschauhan44@gmail.com
-- **Phone**: +91 8627000279
 - **Website**: [ojasviashishchauhan.dharaik.in](https://ojasviashishchauhan.dharaik.in)
 
 ## 📄 License
